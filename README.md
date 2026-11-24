@@ -1,6 +1,6 @@
 <p align="center"><img src="images/Logo%20minimalista%20Small%20TV%20Evolution%20Pro.PNG" alt="Small TV Evolution Pro" width="480"></p>
 
-# Small TV Evolution Pro (V.2.0.4)
+# Small TV Evolution Pro (V.2.0.4) - AI Powered
 
 Firmware personalizzato in italiano per **NM-TV-154** (ESP32-WROOM-32E, 4 MB, display ST7789 240x240).
 Dati meteo, qualita' dell'aria, UV e pollini da [Open-Meteo](https://open-meteo.com) (gratis, nessuna chiave API).
