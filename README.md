@@ -28,6 +28,7 @@ Nel menu restano solo il titolo, la grafica e i pallini di scorrimento.
   1. Principale: orologio grande con barra dei secondi, data in italiano con anno, icona meteo, temperatura, riquadri centrati Min / Max / Umidita'. La riga in basso cambia ogni 4 s: condizioni, temperatura percepita, vento, pressione (Atm), alba, tramonto.
   2. Previsioni dei prossimi 3 giorni.
   3. Grafico della temperatura delle prossime 24 ore, con ora attuale, minimo e massimo.
+  4. Radar pioggia e allerte.
 
   Nella schermata principale, a destra della temperatura, una **freccia di tendenza** (disegnata a codice): su = in aumento, giu = in calo, **doppia freccia sinistra/destra** = stabile (stima sulle prossime 3 ore).
 - **Aria**
@@ -57,7 +58,7 @@ Nel menu restano solo il titolo, la grafica e i pallini di scorrimento.
 - **Post-it**: una nota su carta colorata (fino a 3, scritte dal web, max 40 caratteri) con le emoticon disegnate a codice (`:) ;) :D :( :P :O <3 8) :'( ^_^`). **1 tocco** = nota successiva, **2 tocchi** = precedente.
 Tutte e cinque: **tieni premuto** per tornare al menu.
 - **Sistema**
-  1. **Matrix**: pioggia di caratteri verdi con un pannello di statistiche: nome della rete Wi-Fi, indirizzo IP, qualita' del segnale (a parole, percentuale e dBm), uptime e memoria libera.
+  1. **Matrix**: pioggia di caratteri verdi con un pannello di statistiche: nome della rete Wi-Fi, indirizzo IP, qualita' del segnale (a parole, percentuale e dBm), uptime, memoria libera e versione firmware.
 
 Aggiornamento automatico: meteo ogni 10 minuti, aria/salute ogni 30 minuti. Ora via NTP con fuso Europe/Rome (ora legale/solare automatica).
 
